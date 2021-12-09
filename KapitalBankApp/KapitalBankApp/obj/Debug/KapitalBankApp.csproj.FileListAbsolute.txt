@@ -5,3 +5,10 @@ C:\Users\Valibayli\Desktop\lessons\december\09\mergingRepo\KapitalBankApp\Kapita
 C:\Users\Valibayli\Desktop\lessons\december\09\mergingRepo\KapitalBankApp\KapitalBankApp\obj\Debug\KapitalBankApp.csproj.CoreCompileInputs.cache
 C:\Users\Valibayli\Desktop\lessons\december\09\mergingRepo\KapitalBankApp\KapitalBankApp\obj\Debug\KapitalBankApp.exe
 C:\Users\Valibayli\Desktop\lessons\december\09\mergingRepo\KapitalBankApp\KapitalBankApp\obj\Debug\KapitalBankApp.pdb
+C:\Users\Valibayli\Desktop\ReklamApp\mergingRepo\KapitalBankApp\KapitalBankApp\bin\Debug\KapitalBankApp.exe.config
+C:\Users\Valibayli\Desktop\ReklamApp\mergingRepo\KapitalBankApp\KapitalBankApp\bin\Debug\KapitalBankApp.exe
+C:\Users\Valibayli\Desktop\ReklamApp\mergingRepo\KapitalBankApp\KapitalBankApp\bin\Debug\KapitalBankApp.pdb
+C:\Users\Valibayli\Desktop\ReklamApp\mergingRepo\KapitalBankApp\KapitalBankApp\obj\Debug\KapitalBankApp.csproj.AssemblyReference.cache
+C:\Users\Valibayli\Desktop\ReklamApp\mergingRepo\KapitalBankApp\KapitalBankApp\obj\Debug\KapitalBankApp.csproj.CoreCompileInputs.cache
+C:\Users\Valibayli\Desktop\ReklamApp\mergingRepo\KapitalBankApp\KapitalBankApp\obj\Debug\KapitalBankApp.exe
+C:\Users\Valibayli\Desktop\ReklamApp\mergingRepo\KapitalBankApp\KapitalBankApp\obj\Debug\KapitalBankApp.pdb
