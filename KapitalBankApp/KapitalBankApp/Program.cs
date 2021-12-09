@@ -47,5 +47,10 @@ namespace KapitalBankApp
         {
             Console.WriteLine("Hi man");
         }
+
+        public static void SendCoorporateMail()
+        {
+            Console.WriteLine("Hi man");
+        }
     }
 }
