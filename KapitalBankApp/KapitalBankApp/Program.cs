@@ -27,5 +27,12 @@ namespace KapitalBankApp
         {
             Console.WriteLine("This is API.");
         }
+        public static void BirBankApp()
+        {
+            Console.WriteLine("1-ci ay");
+            Console.WriteLine("2-ci ay");
+            Console.WriteLine("3-cu ay");
+            Console.WriteLine("4-cu ay");
+        }
     }
 }
