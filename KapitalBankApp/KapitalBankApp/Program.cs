@@ -38,5 +38,9 @@ namespace KapitalBankApp
         {
             Console.WriteLine("This is ReklamApp.");
         }
+        public static void SendMessage()
+        {
+            Console.WriteLine("Hi man");
+        }
     }
 }
